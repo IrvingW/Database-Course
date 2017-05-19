@@ -24,10 +24,10 @@ This system includes some functions as follows:
 * VIP customer could pay for orders using whether vip cards or cash. 
 
 ### Conceptual Modle
-![Picture](https://github.com/)
+![Picture](https://github.com/IrvingW/Database-Course/blob/master/Conceptual%20Model.png)
 <br>
 
 ### Relational Database
-![Picture](https://github.com/)
+![Picture](https://github.com/IrvingW/Database-Course/blob/master/Relational%20Database.png)
 <br>
 
