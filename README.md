@@ -1,6 +1,6 @@
 # Cinema management system
-A design project for database course in SJTU
-This project design a database for a cinema management system
+A design project for database course in SJTU. \
+This project designs a database for a cinema management system
 <br>
 ## Group member
 [Qian Xinxin]()\
