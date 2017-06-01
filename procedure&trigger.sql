@@ -104,7 +104,7 @@ begin
 	else
 		if(have_point >= need_point)
 		then
-			update VIP_card set point = (VIP_card.point - need_point);
+			update VIP_card set point = (VIP_card.point - need_point) where VIP_card.card_id = new.card_id;
 		else
 			SIGNAL SQLSTATE 'HY000' SET MESSAGE_TEXT = "用户积分不足.";
 		end if;
